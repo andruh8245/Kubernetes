@@ -1,4 +1,4 @@
 # Kubernetes
- Kubernetes-кластер
+ Kubernetes-кластер  
  
  Практическая работа 7
